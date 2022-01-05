@@ -15,6 +15,3 @@ gems:
 
 paginate: 10
 paginate_path: "blog/:num"
-
-sass:
-  style: :compressed
