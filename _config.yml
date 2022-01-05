@@ -1,9 +1,9 @@
-#theme: jekyll-theme-leap-day
+heme: jekyll-theme-leap-day
 lang: ru-RU
 encoding: utf-8
 
-url: https://prog.msk.ru
-title: Московский клуб программистов
+#url: https://prog.msk.ru
+#title: Московский клуб программистов
 
 permalink: pretty
 highlighter: rouge
@@ -16,5 +16,5 @@ gems:
 paginate: 10
 paginate_path: "blog/:num"
 
-sass:
-  style: :compressed
+#sass:
+#  style: :compressed
