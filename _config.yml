@@ -12,5 +12,5 @@ gems:
 paginate: 10
 paginate_path: "/:num"
 
-sass:
-  style: :compressed
+#sass:
+#  style: :compressed
