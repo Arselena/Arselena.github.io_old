@@ -9,7 +9,7 @@ gems:
   - jekyll-paginate
   - jekyll-feed
 
-paginate: 2
+paginate: 10
 paginate_path: "/:num"
 
 sass:
