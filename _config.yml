@@ -10,7 +10,7 @@ gems:
   - jekyll-feed
 
 paginate: 10
-paginate_path: "blog/:num"
+paginate_path: "/:num"
 
 sass:
   style: :compressed
