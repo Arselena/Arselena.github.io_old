@@ -1,10 +1,6 @@
-heme: jekyll-theme-leap-day
 lang: ru-RU
 encoding: utf-8
-
-#url: https://prog.msk.ru
-#title: Московский клуб программистов
-
+url: https://progmsk.github.io
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
